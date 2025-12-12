@@ -1,6 +1,11 @@
-## meow
+<style>
+table table table td { vertical-align: top; !important; }
+span.blacktext12 { visibility: visible !important; background-image: url('http://dl6.glitter-graphics.net/pub/328/328606ymtr0dx2mw.jpg'); background-repeat: no-repeat; background-position: center center; background-color: transparent; font-size: 0px; letter-spacing: -0.5px; width: 435px; height: 75px; display: block !important; }
+span.blacktext12 img { display: none; }
+</style><br><a href=https://www.glitter-graphics.com>Extended Network Banners</a>
+he/they/(she)
+<!--![gerard-way-stamp](https://github.com/user-attachments/assets/e5753168-f6a4-4116-94a7-47b978b77dcf)
 
-<!--
 **idolofchemical/idolofchemical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +16,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: he/they/(she)
+## he/they/(she)
 - ⚡ Fun fact: ...
 -->
